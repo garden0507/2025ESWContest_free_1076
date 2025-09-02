@@ -52,20 +52,21 @@
 
 ## App 동작 흐름도
 1. 옷 커스텀하기
-<img width="1499" height="428" alt="image" src="https://github.com/user-attachments/assets/a9d3044f-8410-4db6-8f62-4dec244f93ea" />
+![옷커스텀하기](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/옷커스텀하기.png)
+
 
 ---
 2. 옷 추가하기
-<img width="1560" height="846" alt="image" src="https://github.com/user-attachments/assets/3d192b53-4f0c-41b3-8648-04d7cf6cf257" />
+![옷추가하기](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/옷추가하기.png)
 
 ---
 3. 옷 찾기
-<img width="1440" height="881" alt="image" src="https://github.com/user-attachments/assets/3d2cbe90-a72b-423f-88f9-50a806f75664" />
+![옷찾기](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/옷찾기.png)
 
 ---
 
 ## 전체 동작 흐름도
-<img width="1731" height="961" alt="image" src="https://github.com/user-attachments/assets/592ddafa-6fd0-4e16-923c-d86f58e81660" />
+![전체동작흐름도](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/전체동작흐름도.png)
 
 ---
 
