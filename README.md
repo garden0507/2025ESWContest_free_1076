@@ -37,7 +37,8 @@
 ---
 
 ## 스마트 옷장 구조 소개
-<img width="1873" height="918" alt="Image" src="https://github.com/user-attachments/assets/3a30e734-b941-48a0-a71f-0e413556b47a" />
+![closet-arch] (https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/closet_arch.png)
+
 
 ---
 
