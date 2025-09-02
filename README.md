@@ -66,7 +66,6 @@
 ![옷찾기](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/옷찾기.png)
 옷 찾기 기능은 메인 화면에 표시된 옷 리스트에서 사용자가 원하는 옷을 찾는 기능입니다. 사용자는 리스트 오른쪽에 있는 찾기 버튼을 누르면 해당 옷의 위치를 확인할 수 있으며, App은 연결된 옷장 기기에 명령을 내려 지정된 옷이 사용자 앞으로 이동하도록 제어합니다. 이를 통해 실제 옷장에서 원하는 옷을 빠르게 꺼낼 수 있습니다.
 옷 추천 기능은 옷을 찾은 이후 사용자의 선택에 따라 추가적으로 옷을 추천을 제공하는 기능입니다. 찾기 버튼 실행 후 “옷을 찾았으면 확인 버튼 클릭” 라는 메시지가 표시되며, 확인 버튼을 누르면 앱이 자동으로 옷을 추천합니다. 추천 과정에서는 상·하의 조합 유무와 실시간 날씨 정보를 기반으로 관련성이 높은 옷이 옷 추천 리스트에 표시되어, 사용자가 더욱 효율적으로 옷을 선택할 수 있습니다.
-
 이후 다시 찾기 버튼을 누르면 옷 찾기 기능이 재실행되며, 최종적으로 옷을 찾은 이후에는 App이 해당 옷을 리스트에서 자동으로 제거합니다.
 ---
 
@@ -74,6 +73,15 @@
 ![전체동작흐름도](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/전체동작흐름도.png)
 
 ---
+# Environment
+
+## Embedded
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
+## Frontend
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 
 ## Project Structure
