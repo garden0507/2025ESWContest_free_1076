@@ -37,7 +37,7 @@
 ---
 
 ## 스마트 옷장 구조 소개
-![closet-arch] (https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/closet_arch.png)
+![closet-arch](https://raw.githubusercontent.com/garden0507/2025ESWContest_free_1076/main/images/closet_arch.png)
 
 
 ---
